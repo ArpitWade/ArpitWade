@@ -1,4 +1,4 @@
-## Hi there 👋 I am Arpit. 
+## Hi there 👋 I am Arpit Wade. 
 
 <!--
 **ArpitWade/ArpitWade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
